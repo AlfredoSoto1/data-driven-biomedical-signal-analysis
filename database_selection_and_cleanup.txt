@@ -1,0 +1,24 @@
+Database Selection MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset 
+-> for signal analysis
+
+Database Selection MIMIC-V Clinical Database
+-> for demographic analysis
+
+Main focus: Stress recognition using ECG signal pattern.
+Changes in heart rate, respiration rate and other physiological parameters associated with stress can be inidcative of an impending panic attack when monitored over time.
+
+Objective: Using machine learning algorithms analyze patterns in stress data. A model can be trained to identify potential panic attack precursors.
+
+Vision: Possibility of panic attack risk prediction using data from wearable devices.
+
+Purpose/Importance: If triggers of panic attacks could be identified, they may be explored further to examine whether they could predict panic attack onset and contribute to the development of preventive strategies. This could enable the creation of personalized intervention plans, allowing individuals to anticipate and mitigate their symptoms before a full-blown attack occurs. 
+
+Methodology: To cancel ECG noise in order to obtain a useful ECG signal. Main goal of ECG de-noising is to segregate pure signal elements so as to provide appropriate interpretation of ECG signal. The motive is to separate these noises from the ECG signals in order to commence a result which helps a clear analysis of the data.
+Some properties to consider might include: Polynomials Formation, reduction of noise and conservation of small details. usage of filters for signal processing.
+
+
+References:
+Research paper provided.
+https://www.currentpediatrics.com/articles/a-novel-technique-for-stress-recognition-using-ecg-signal-pattern-9133.html#8
+https://repository.fit.edu/cgi/viewcontent.cgi?article=1610&context=etd
+
