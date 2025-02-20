@@ -1,0 +1,13 @@
+Research shows that for stress recognition and predictiablility in ECG, the best leads are Lead II, Lead ! and Lead III. 
+
+Knowing this information helps cleaning up and organizing the specific data needed to detect stress efectively while saving resources. Ranked from top best.
+
+1. Lead II- Best for HRV and stress. It provides the most accurate detection of R-R intervals, crucial for HRV analysis, a key indicator for stress.
+->Clinical stress assessment.
+
+2. Lead I- Good for overall heart activity. It provides a detection of general changes in stress-related heart patterns. 
+-> Simple stress detection.
+
+3. Lead III. Secondary stress detection. It provides information on the heart activity from a different andgke thab Lead I, offering complementary stress insights.
+-> Additional stress analysis.
+
